@@ -1,4 +1,4 @@
-package com.example.jetpack
+package com.example.RecipeApplication
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
