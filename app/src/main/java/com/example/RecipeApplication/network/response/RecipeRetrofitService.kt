@@ -1,4 +1,4 @@
-package com.example.RecipeApplication.network
+package com.example.RecipeApplication.network.response
 
 import com.example.RecipeApplication.network.model.RecipeDto
 import com.example.RecipeApplication.network.response.RecipeSearchResponse

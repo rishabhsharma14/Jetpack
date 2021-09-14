@@ -1,10 +1,10 @@
 package com.example.RecipeApplication.repository
 
 import com.example.RecipeApplication.domain.model.Recipe
-import com.example.RecipeApplication.network.RecipeRetrofitService
+import com.example.RecipeApplication.network.response.RecipeRetrofitService
 import com.example.RecipeApplication.network.model.RecipeDtoMapper
 
-class RecipeRepository_Impl(
+class   RecipeRepository_Impl(
     private val recipeRetrofitService: RecipeRetrofitService,
     private val mapper:RecipeDtoMapper
 

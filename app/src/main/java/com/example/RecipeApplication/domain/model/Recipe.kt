@@ -17,4 +17,5 @@ data class Recipe(
     val ingredients: List<String> = listOf(),
     val dateAdded: String?=null,
     val dateUpdated: String?=null,
+
 ) : Parcelable
